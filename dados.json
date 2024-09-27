@@ -250,5 +250,23 @@
         "type": "username",
         "identifier": "DevilHand",
         "password": "hazel333"
+    },
+    {
+        "url": "bankendigital.de/wp-login.php",
+        "type": "username",
+        "identifier": "wordcamp",
+        "password": "z43218765z"
+    },
+    {
+        "url": "bankendigital.de//wp-login.php",
+        "type": "username",
+        "identifier": "frostbite",
+        "password": "frostbite"
+    },
+    {
+        "url": "bankendigital.de//wp-login.php",
+        "type": "username",
+        "identifier": "sulejman",
+        "password": "frostbite"
     }
 ]
